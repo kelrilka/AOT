@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+LR_1/venv/
+LR_2/venv/
+LR_3-4/venv/
+
